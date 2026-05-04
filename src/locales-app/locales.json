@@ -1,0 +1,12 @@
+{
+  "en-US": {},
+  "es-MX": {},
+  "it-IT": {},
+  "fr-FR": {},
+  "es-ES": {
+    "action-sign-batch-legacy": "Firmar",
+    "actions-buttons-download-detail": "Descargar detalle",
+    "actions-buttons-download-payment": "Descargar justificante",
+    "actions-buttons-reuse-payment": "Reutilizar transferencia",
+  }
+}
